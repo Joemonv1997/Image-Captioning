@@ -1,0 +1,12 @@
+__MACOSX/                   
+Flickr_8k.devImages.txt                
+Flickr_8k.testImages.txt   
+CrowdFlowerAnnotations.txt  
+Flickr_8k.trainImages.txt  
+readme.txt
+ExpertAnnotations.txt       
+Flickr8k.lemma.token.txt                 
+Flickr8k.token.txt         
+Flicker8k_Dataset/          
+Flickr8k_text/
+features.pkl
